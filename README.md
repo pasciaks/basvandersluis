@@ -9,7 +9,7 @@ alt="BAS VAN DER SLUIS" width="240" height="180" border="10" /></a>
 
 [Link to Youtube Tutorial Video](https://www.youtube.com/watch?v=axuJAuYmwu0)
 
-# Here's the code from the video.  A comment mentioned how the text was too small to read in the video so I hereby provide this to help.
+# Here's the code from the video.  A comment mentioned how the text was too small to read in the video.  The included file pullupdown.py contains the code so you won't have to type it.
 
 
 
